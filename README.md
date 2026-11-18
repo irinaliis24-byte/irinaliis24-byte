@@ -31,21 +31,6 @@ I enjoy turning ideas and designs into functional interfaces, exploring new tech
 - REST API
 - React Router
 
-### 📌 Featured Projects
-
-**🎬 Movie Club**
-A movie discovery application built with React and TypeScript.
-
-- Browse popular, upcoming, and top-rated movies.
-- Search for movies.
-- Filter movies by genre and rating.
-- Save favorite movies.
-- Responsive design.
-
-**Tech:** React, TypeScript, Redux Toolkit, RTK Query, React Router, TMDB API.
-
-[View Repository](https://github.com/irinaliis24-byte/TMDB-movie-club)
-
 ### 🎨 Design & UI/UX
 
 I also have a background in UI/UX design, including practical experience gained during an internship. I enjoy combining design principles with frontend development to create intuitive and accessible interfaces.
